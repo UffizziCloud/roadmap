@@ -1,11 +1,7 @@
 ## Summary
- We ask you to be considerate of others and behave professionally and respectfully to all other participants. 
+ We ask you to be considerate of others and behave professionally and respectfully to all other participants. Remeber that the person on the other end is a real person. Don't say anything online that you wouldn't say to their face. 
  
- Remeber that the person on the other end is a real person. Don't say anything online that you wouldn't say to their face. 
- 
- Don't be a jerk. Don't put others down because you think you're smarter. No one knows everything—we're all learning. Consider that the other person might know something you don't.
- 
- Don't forget to smile :smile:. It's good for the soul and makes the world a better place.
+ Don't be a jerk. Don't put others down because you think you're smarter. No one knows everything—we're all learning. Consider that the other person might know something you don't. And finally, don't forget to smile :smile:. It's good for the soul and makes the world a better place.
 
 ## Expected Behavior
 
