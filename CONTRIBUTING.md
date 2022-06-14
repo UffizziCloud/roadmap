@@ -8,7 +8,7 @@ We ask that you read this document and send us any issues or open pull requests 
 
 We encourage the community to create new issues on this project to request new features for Uffizzi.
 
-If you would like to suggest a new feature, please use our issue template. This contains a few essential questions that help us understand the problem you are looking to solve and how you think your recommendation will address it. We also tag incoming issues from this template with "community-new". This lets our teams quickly see what has been raised and better address the community recommendations.
+If you would like to suggest a new feature, please use our issue template. This contains a few essential questions that help us understand the problem you are looking to solve and how you think your recommendation will address it. We also tag incoming issues from this template with "community". This lets our teams quickly see what has been raised and better address the community recommendations.
 
 To see what has already been proposed by the community you can look [here](https://github.com/UffizziCloud/uffizzi-roadmap/labels/community-new).
 
